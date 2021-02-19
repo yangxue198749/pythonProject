@@ -1,0 +1,8 @@
+2021-02-18 20:34:04,802 Authorizationhandler.py[line:47]INFO - {'success': True, 'data': {'bindMobile': True, 'multiAuth': False, 'mobileNumber': None, 'notifyNumber': '18500789646', 'secondaryType': None, 'bindMobileUrl': None, 'casLoginUrl': 'http://geip-fat.glodon.com/cas/login?type=SSO_TICKET&ticket=babd1a22-0209-4119-9c75-e0a8c195af23&service=http%3A%2F%2Fgeip-fat.glodon.com%2Fapi%2Fclient%2Fcas%2Fidentification%2Fauthenticate%3Ftype%3Dcas'}, 'errorMsg': None, 'message': None, 'errorCode': 0}
+2021-02-18 20:34:07,001 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称为空】
+2021-02-18 20:34:07,009 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60008}
+2021-02-18 20:34:07,009 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"部件名称不能为空"}
+2021-02-18 20:34:54,182 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60008, 'message': '部件名称不能为空'}
+2021-02-18 20:34:54,190 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件编码为空】
+2021-02-18 20:34:54,191 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60010}
+2021-02-18 20:34:54,192 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"部件编码不能为空"}

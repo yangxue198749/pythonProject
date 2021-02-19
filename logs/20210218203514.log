@@ -1,0 +1,138 @@
+2021-02-18 20:35:15,008 Authorizationhandler.py[line:47]INFO - {'success': True, 'data': {'bindMobile': True, 'multiAuth': False, 'mobileNumber': None, 'notifyNumber': '18500789646', 'secondaryType': None, 'bindMobileUrl': None, 'casLoginUrl': 'http://geip-fat.glodon.com/cas/login?type=SSO_TICKET&ticket=13f7c189-6f5a-4744-b73d-625f43aa9f0f&service=http%3A%2F%2Fgeip-fat.glodon.com%2Fapi%2Fclient%2Fcas%2Fidentification%2Fauthenticate%3Ftype%3Dcas'}, 'errorMsg': None, 'message': None, 'errorCode': 0}
+2021-02-18 20:35:15,008 Authorizationhandler.py[line:47]INFO - {'success': True, 'data': {'bindMobile': True, 'multiAuth': False, 'mobileNumber': None, 'notifyNumber': '18500789646', 'secondaryType': None, 'bindMobileUrl': None, 'casLoginUrl': 'http://geip-fat.glodon.com/cas/login?type=SSO_TICKET&ticket=13f7c189-6f5a-4744-b73d-625f43aa9f0f&service=http%3A%2F%2Fgeip-fat.glodon.com%2Fapi%2Fclient%2Fcas%2Fidentification%2Fauthenticate%3Ftype%3Dcas'}, 'errorMsg': None, 'message': None, 'errorCode': 0}
+2021-02-18 20:35:17,087 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称为空】
+2021-02-18 20:35:17,087 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称为空】
+2021-02-18 20:35:17,088 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60008}
+2021-02-18 20:35:17,088 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60008}
+2021-02-18 20:35:17,088 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"部件名称不能为空"}
+2021-02-18 20:35:17,088 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"部件名称不能为空"}
+2021-02-18 20:35:17,216 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60008, 'message': '部件名称不能为空'}
+2021-02-18 20:35:17,216 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60008, 'message': '部件名称不能为空'}
+2021-02-18 20:35:17,219 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件编码为空】
+2021-02-18 20:35:17,219 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件编码为空】
+2021-02-18 20:35:17,220 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60010}
+2021-02-18 20:35:17,220 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60010}
+2021-02-18 20:35:17,220 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"部件编码不能为空"}
+2021-02-18 20:35:17,220 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"部件编码不能为空"}
+2021-02-18 20:35:17,350 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60010, 'message': '部件编码不能为空'}
+2021-02-18 20:35:17,350 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60010, 'message': '部件编码不能为空'}
+2021-02-18 20:35:17,353 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件内容为空】
+2021-02-18 20:35:17,353 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件内容为空】
+2021-02-18 20:35:17,353 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60009}
+2021-02-18 20:35:17,353 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60009}
+2021-02-18 20:35:17,354 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"内容url不能为空"}
+2021-02-18 20:35:17,354 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"内容url不能为空"}
+2021-02-18 20:35:17,470 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60009, 'message': '内容url不能为空'}
+2021-02-18 20:35:17,470 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60009, 'message': '内容url不能为空'}
+2021-02-18 20:35:17,473 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件组件类型为空】
+2021-02-18 20:35:17,473 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件组件类型为空】
+2021-02-18 20:35:17,473 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60013}
+2021-02-18 20:35:17,473 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60013}
+2021-02-18 20:35:17,474 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"部件规格分类不能为空"}
+2021-02-18 20:35:17,474 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"部件规格分类不能为空"}
+2021-02-18 20:35:18,193 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60013, 'message': '部件规格分类不能为空'}
+2021-02-18 20:35:18,193 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60013, 'message': '部件规格分类不能为空'}
+2021-02-18 20:35:18,196 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-新增成功】
+2021-02-18 20:35:18,196 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-新增成功】
+2021-02-18 20:35:18,197 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":200}
+2021-02-18 20:35:18,197 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":200}
+2021-02-18 20:35:18,197 workbenchAdd.py[line:44]INFO - 检查返回信息为：
+2021-02-18 20:35:18,197 workbenchAdd.py[line:44]INFO - 检查返回信息为：
+2021-02-18 20:35:18,323 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60017, 'message': '相同名称的部件在当前产品中已存在'}
+2021-02-18 20:35:18,323 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60017, 'message': '相同名称的部件在当前产品中已存在'}
+2021-02-18 20:35:18,324 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称重复】
+2021-02-18 20:35:18,324 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称重复】
+2021-02-18 20:35:18,324 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60017,}
+2021-02-18 20:35:18,324 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60017,}
+2021-02-18 20:35:18,325 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"相同名称的部件在当前产品中已存在"}
+2021-02-18 20:35:18,325 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"相同名称的部件在当前产品中已存在"}
+2021-02-18 20:35:18,447 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:18,447 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:18,449 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称重复】
+2021-02-18 20:35:18,449 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称重复】
+2021-02-18 20:35:18,449 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60018}
+2021-02-18 20:35:18,449 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60018}
+2021-02-18 20:35:18,450 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"相同编码的部件已存在"}
+2021-02-18 20:35:18,450 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"相同编码的部件已存在"}
+2021-02-18 20:35:18,574 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:18,574 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:18,577 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称全局唯一】
+2021-02-18 20:35:18,577 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称全局唯一】
+2021-02-18 20:35:18,577 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60019}
+2021-02-18 20:35:18,577 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60019}
+2021-02-18 20:35:18,577 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"相同编码的部件已存在"}
+2021-02-18 20:35:18,577 workbenchAdd.py[line:44]INFO - 检查返回信息为：{"message":"相同编码的部件已存在"}
+2021-02-18 20:35:18,695 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:18,695 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:18,698 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称边界值，下线】
+2021-02-18 20:35:18,698 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称边界值，下线】
+2021-02-18 20:35:18,698 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60016}
+2021-02-18 20:35:18,698 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60016}
+2021-02-18 20:35:18,698 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件名称格式不正确"}
+2021-02-18 20:35:18,698 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件名称格式不正确"}
+2021-02-18 20:35:18,820 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:18,820 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:18,822 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称边界值，上线】
+2021-02-18 20:35:18,822 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称边界值，上线】
+2021-02-18 20:35:18,823 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60016}
+2021-02-18 20:35:18,823 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60016}
+2021-02-18 20:35:18,823 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件名称格式不正确"}
+2021-02-18 20:35:18,823 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件名称格式不正确"}
+2021-02-18 20:35:18,947 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:18,947 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:18,949 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称不合规（非字母开头）】
+2021-02-18 20:35:18,949 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称不合规（非字母开头）】
+2021-02-18 20:35:18,949 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60016}
+2021-02-18 20:35:18,949 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60016}
+2021-02-18 20:35:18,949 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件名称格式不正确"}
+2021-02-18 20:35:18,949 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件名称格式不正确"}
+2021-02-18 20:35:19,077 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:19,077 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:19,078 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称不合规（非字母开头）】
+2021-02-18 20:35:19,078 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称不合规（非字母开头）】
+2021-02-18 20:35:19,079 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60016}
+2021-02-18 20:35:19,079 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60016}
+2021-02-18 20:35:19,079 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件名称格式不正确"}
+2021-02-18 20:35:19,079 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件名称格式不正确"}
+2021-02-18 20:35:19,213 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:19,213 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60016, 'message': '部件名称格式不正确'}
+2021-02-18 20:35:19,214 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件编码边界值，下线】
+2021-02-18 20:35:19,214 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件编码边界值，下线】
+2021-02-18 20:35:19,215 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60015}
+2021-02-18 20:35:19,215 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60015}
+2021-02-18 20:35:19,215 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件编码格式不正确"}
+2021-02-18 20:35:19,215 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件编码格式不正确"}
+2021-02-18 20:35:19,331 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60015, 'message': '部件编码格式不正确'}
+2021-02-18 20:35:19,331 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60015, 'message': '部件编码格式不正确'}
+2021-02-18 20:35:19,333 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称边界值，上线】
+2021-02-18 20:35:19,333 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称边界值，上线】
+2021-02-18 20:35:19,333 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60015}
+2021-02-18 20:35:19,333 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60015}
+2021-02-18 20:35:19,333 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件编码格式不正确"}
+2021-02-18 20:35:19,333 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件编码格式不正确"}
+2021-02-18 20:35:19,458 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60015, 'message': '部件编码格式不正确'}
+2021-02-18 20:35:19,458 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60015, 'message': '部件编码格式不正确'}
+2021-02-18 20:35:19,459 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称不合规（非字母开头）】
+2021-02-18 20:35:19,459 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称不合规（非字母开头）】
+2021-02-18 20:35:19,459 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60015}
+2021-02-18 20:35:19,459 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60015}
+2021-02-18 20:35:19,459 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件编码格式不正确"}
+2021-02-18 20:35:19,459 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件编码格式不正确"}
+2021-02-18 20:35:19,583 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60015, 'message': '部件编码格式不正确'}
+2021-02-18 20:35:19,583 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60015, 'message': '部件编码格式不正确'}
+2021-02-18 20:35:19,586 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称不合规（非字母开头）】
+2021-02-18 20:35:19,586 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-组件名称不合规（非字母开头）】
+2021-02-18 20:35:19,586 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60015}
+2021-02-18 20:35:19,586 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":60015}
+2021-02-18 20:35:19,587 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件编码格式不正确"}
+2021-02-18 20:35:19,587 workbenchAdd.py[line:44]INFO - 检查返回信息为：{“message":"部件编码格式不正确"}
+2021-02-18 20:35:19,718 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60015, 'message': '部件编码格式不正确'}
+2021-02-18 20:35:19,718 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60015, 'message': '部件编码格式不正确'}
+2021-02-18 20:35:19,721 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-描述200字符边界值校验】
+2021-02-18 20:35:19,721 workbenchAdd.py[line:38]INFO - 【开始执行用例:新增组件-描述200字符边界值校验】
+2021-02-18 20:35:19,721 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":500}
+2021-02-18 20:35:19,721 workbenchAdd.py[line:43]INFO - 检查状态码为：{"code":500}
+2021-02-18 20:35:19,721 workbenchAdd.py[line:44]INFO - 检查返回信息为：
+2021-02-18 20:35:19,721 workbenchAdd.py[line:44]INFO - 检查返回信息为：
+2021-02-18 20:35:19,860 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60015, 'message': '部件编码格式不正确'}
+2021-02-18 20:35:19,860 workbenchAdd.py[line:48]INFO - 返回内容为：{'code': 60015, 'message': '部件编码格式不正确'}
