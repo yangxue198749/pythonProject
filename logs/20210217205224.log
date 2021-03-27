@@ -1,6 +1,0 @@
-2021-02-17 20:52:24,949 workbenchAdd.py[line:33]INFO - 【开始执行用例:新增组件-组件名称为空】
-2021-02-17 20:52:24,950 workbenchAdd.py[line:38]INFO - 检查状态码为：{"code":60008}
-2021-02-17 20:52:24,950 workbenchAdd.py[line:39]INFO - 检查返回信息为：{"message":"部件名称不能为空"}
-2021-02-17 20:52:56,092 workbenchAdd.py[line:33]INFO - 【开始执行用例:新增组件-组件编码为空】
-2021-02-17 20:52:56,093 workbenchAdd.py[line:38]INFO - 检查状态码为：{"code":60010}
-2021-02-17 20:52:56,093 workbenchAdd.py[line:39]INFO - 检查返回信息为：{"message":"部件编码不能为空"}

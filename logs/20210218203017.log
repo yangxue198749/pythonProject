@@ -1,9 +1,0 @@
-2021-02-18 20:30:17,012 workbenchAdd.py[line:35]INFO - 【开始执行用例:新增组件-组件名称不合规（非字母开头）】
-2021-02-18 20:30:17,028 workbenchAdd.py[line:40]INFO - 检查状态码为：{"code":60015}
-2021-02-18 20:30:17,046 workbenchAdd.py[line:41]INFO - 检查返回信息为：{“message":"部件编码格式不正确"}
-2021-02-18 20:30:17,090 workbenchAdd.py[line:35]INFO - 【开始执行用例:新增组件-描述200字符边界值校验】
-2021-02-18 20:30:17,090 workbenchAdd.py[line:35]INFO - 【开始执行用例:新增组件-描述200字符边界值校验】
-2021-02-18 20:30:17,105 workbenchAdd.py[line:40]INFO - 检查状态码为：{"code":500}
-2021-02-18 20:30:17,105 workbenchAdd.py[line:40]INFO - 检查状态码为：{"code":500}
-2021-02-18 20:30:17,142 workbenchAdd.py[line:41]INFO - 检查返回信息为：
-2021-02-18 20:30:17,142 workbenchAdd.py[line:41]INFO - 检查返回信息为：
